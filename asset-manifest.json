@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://vertraut.github.io/task-management-frontend/static/css/main.8aed83bb.chunk.css",
+    "main.js": "https://vertraut.github.io/task-management-frontend/static/js/main.4b00f444.chunk.js",
+    "main.js.map": "https://vertraut.github.io/task-management-frontend/static/js/main.4b00f444.chunk.js.map",
+    "runtime~main.js": "https://vertraut.github.io/task-management-frontend/static/js/runtime~main.9e543ad7.js",
+    "runtime~main.js.map": "https://vertraut.github.io/task-management-frontend/static/js/runtime~main.9e543ad7.js.map",
+    "static/js/2.c937a3cb.chunk.js": "https://vertraut.github.io/task-management-frontend/static/js/2.c937a3cb.chunk.js",
+    "static/js/2.c937a3cb.chunk.js.map": "https://vertraut.github.io/task-management-frontend/static/js/2.c937a3cb.chunk.js.map",
+    "index.html": "https://vertraut.github.io/task-management-frontend/index.html",
+    "precache-manifest.e8dcd18baa418e774c40e1ee0bd210b0.js": "https://vertraut.github.io/task-management-frontend/precache-manifest.e8dcd18baa418e774c40e1ee0bd210b0.js",
+    "service-worker.js": "https://vertraut.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.8aed83bb.chunk.css.map": "https://vertraut.github.io/task-management-frontend/static/css/main.8aed83bb.chunk.css.map"
+  }
+}
