@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button, TextField } from '@material-ui/core';
 import styled from 'styled-components';
 
-import './SignInPage.scss';
+import './SignInPage.css';
 import { inject } from 'mobx-react';
 import ErrorMessage from '../../components/ErrorMessage';
 
@@ -58,7 +58,7 @@ class SignInPage extends Component {
         <FormContainer>
           <Heading>Hello!</Heading>
           <p>Fill in your username and password to sign in.</p>
-          
+
           {errorMessage && <ErrorMessage message={this.state.errorMessage} />}
 
           <div>
@@ -80,7 +80,7 @@ class SignInPage extends Component {
               onChange={e => this.setState({ password: e.target.value })}
             />
           </div>
-          <hr/>
+          <hr />
           <div>
             <Button
               style={{ marginBottom: '10px' }}

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button, TextField } from '@material-ui/core';
 import styled from 'styled-components';
 
-import './SignUpPage.scss';
+import './SignUpPage.css';
 import { inject } from 'mobx-react';
 import ErrorMessage from '../../components/ErrorMessage';
 
@@ -78,7 +78,7 @@ class SignUpPage extends Component {
           <p>
             Passwords must contain at least 1 upper case letter, 1 lower case letter and one number OR special charracter.
           </p>
-          <hr/>
+          <hr />
           <div>
             <Button
               fullWidth
