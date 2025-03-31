@@ -9,6 +9,11 @@ jobs:
       - name: Git Checkout
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
       - name: Yarn Cache
         uses: c-hive/gha-yarn-cache@v1
 
